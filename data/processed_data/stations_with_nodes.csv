@@ -1,0 +1,267 @@
+station_id,station_name,metro_line,routes,latitude,longitude,station_type,station_node
+21,Rithala,Red Line,"[0, 1, 18, 19]",28.720821,77.105042,Terminal,A1
+20,Rohini West,Red Line,"[0, 1, 18, 19]",28.715008,77.115746,Normal,A2
+19,Rohini East,Red Line,"[0, 1, 18, 19]",28.707941,77.125732,Normal,A3
+18,Pitampura,Red Line,"[0, 1, 18, 19]",28.70318,77.132355,Normal,A4
+17,Kohat Enclave,Red Line,"[0, 1, 18, 19]",28.697943,77.140465,Normal,A5
+16,Netaji Subash Place,Red Line,"[0, 1, 11, 18, 19, 29]",28.695637,77.152428,Interchange,A6
+15,Keshav Puram,Red Line,"[0, 1, 18, 19]",28.688944,77.161774,Normal,A7
+14,Kanhaiya Nagar,Red Line,"[0, 1, 18, 19]",28.682386,77.162552,Normal,A8
+13,Inderlok,Red Line,"[0, 1, 8, 18, 19, 26]",28.673452,77.170235,Terminal/Interchange,A9
+12,Shastri Nagar,Red Line,"[0, 1, 18, 19]",28.670135,77.181679,Normal,A10
+11,Pratap Nagar,Red Line,"[0, 1, 18, 19]",28.666632,77.196869,Normal,A11
+10,Pulbangash,Red Line,"[0, 1, 18, 19]",28.66571,77.206329,Normal,A12
+9,Tis Hazari,Red Line,"[0, 1, 18, 19]",28.667137,77.216721,Normal,A13
+8,Kashmere Gate,Red Line,"[0, 1, 2, 3, 9, 10, 18, 19, 20, 21, 27, 28]",28.667879,77.228012,Terminal/Interchange,A14
+7,Shastri Park,Red Line,"[0, 1, 18, 19]",28.668451,77.250404,Normal,A15
+6,Seelampur,Red Line,"[0, 1, 18, 19]",28.670324,77.267311,Normal,A16
+5,Welcome,Red Line,"[0, 1, 11, 18, 19, 29]",28.671986,77.277931,Interchange,A17
+4,Shahdara,Red Line,"[0, 1, 18, 19]",28.673531,77.28727,Normal,A18
+3,Mansrover park,Red Line,"[0, 1, 18, 19]",28.675352,77.301178,Normal,A19
+2,Jhilmil,Red Line,"[0, 1, 18, 19]",28.675648,77.312393,Normal,A20
+1,Dilshad Garden,Red Line,"[0, 1, 18, 19]",28.675991,77.321495,Terminal,A21
+232,Shaheed Nagar,Red Line,"[1, 19]",28.676615,77.333809,Normal,A22
+231,Raj Bagh,Red Line,"[1, 19]",28.677122,77.346466,Normal,A23
+230,Major Mohit Sharma Rajender Nagar,Red Line,"[1, 19]",28.678095,77.359528,Normal,A24
+229,Shyam Park,Red Line,"[1, 19]",28.678217,77.370911,Normal,A25
+228,Mohan Nagar,Red Line,"[1, 19]",28.67856,77.384209,Normal,A26
+227,Arthala,Red Line,"[1, 19]",28.6772,77.391876,Normal,A27
+226,Hindon River,Red Line,"[1, 19]",28.673508,77.40654,Normal,A28
+225,Shaheed Sthal (New Bus Adda),Red Line,"[1, 19]",28.670177,77.416031,Terminal,A29
+71,Millenium City Centre Gurugram,Yellow Line,"[2, 4, 20, 22]",28.459118,77.072586,Terminal,B37
+70,IFFCO Chowk,Yellow Line,"[2, 4, 20, 22]",28.472137,77.072502,Normal,B36
+69,MG Road,Yellow Line,"[2, 4, 20, 22]",28.47967,77.080444,Normal,B35
+68,Sikanderpur,Yellow Line,"[33, 2, 4, 15, 20, 22]",28.481352,77.092995,Interchange,B34
+67,Gurudronacharya,Yellow Line,"[2, 4, 20, 22]",28.482075,77.102219,Normal,B33
+66,Arjan Garh,Yellow Line,"[2, 4, 20, 22]",28.48082,77.12587,Normal,B32
+65,Ghitorni,Yellow Line,"[2, 4, 20, 22]",28.49383,77.149071,Normal,B31
+64,Sultanpur,Yellow Line,"[2, 4, 20, 22]",28.499214,77.161362,Normal,B30
+63,Chhattarpur,Yellow Line,"[2, 4, 20, 22]",28.506584,77.174866,Normal,B29
+62,Qutab Minar,Yellow Line,"[2, 3, 4, 20, 21, 22]",28.512714,77.185791,Terminal,B28
+61,Saket,Yellow Line,"[2, 3, 20, 21]",28.520638,77.199379,Normal,B27
+60,Malviya Nagar,Yellow Line,"[2, 3, 20, 21]",28.52817,77.205612,Normal,B26
+59,Hauz Khas,Yellow Line,"[2, 3, 12, 20, 21, 30]",28.543346,77.206673,Interchange,B25
+58,Green Park,Yellow Line,"[2, 3, 20, 21]",28.559853,77.206902,Normal,B24
+57,AIIMS,Yellow Line,"[2, 3, 20, 21]",28.568199,77.207947,Normal,B23
+56,Dilli Haat - INA,Yellow Line,"[2, 3, 11, 20, 21, 29]",28.575195,77.209473,Interchange,B22
+55,Jorbagh,Yellow Line,"[2, 3, 20, 21]",28.587234,77.212662,Normal,B21
+54,Lok Kalyan Marg,Yellow Line,"[2, 3, 20, 21]",28.597519,77.209122,Normal,B20
+53,Udyog Bhawan,Yellow Line,"[2, 3, 20, 21]",28.611525,77.210052,Normal,B19
+52,Central Secretariat,Yellow Line,"[2, 3, 9, 10, 20, 21, 27, 28]",28.614973,77.212029,Interchange,B18
+51,Patel Chowk,Yellow Line,"[2, 3, 20, 21]",28.622967,77.212288,Normal,B17
+50,Rajiv Chowk,Yellow Line,"[2, 3, 5, 6, 20, 21, 23, 24]",28.632896,77.219574,Interchange,B16
+49,New Delhi,Yellow Line,"[32, 2, 3, 14, 20, 21]",28.642944,77.222351,Terminal/Interchange,B15
+48,Chawri Bazar,Yellow Line,"[2, 3, 20, 21]",28.649635,77.22628,Normal,B14
+47,Chandni Chowk,Yellow Line,"[2, 3, 20, 21]",28.656443,77.229218,Normal,B13
+8,Kashmere Gate,Yellow Line,"[0, 1, 2, 3, 9, 10, 18, 19, 20, 21, 27, 28]",28.667879,77.228012,Terminal/Interchange,B12
+46,Civil Lines,Yellow Line,"[2, 3, 20, 21]",28.676945,77.224953,Normal,B11
+45,Vidhan Sabha,Yellow Line,"[2, 3, 20, 21]",28.687845,77.221626,Normal,B10
+44,Vishwavidyalaya,Yellow Line,"[2, 3, 20, 21]",28.694765,77.212418,Terminal,B9
+43,Guru Tegh Bahadur Nagar,Yellow Line,"[2, 20]",28.698195,77.206985,Normal,B8
+42,Model Town,Yellow Line,"[2, 20]",28.702833,77.193764,Normal,B7
+41,Azadpur,Yellow Line,"[2, 11, 20, 29]",28.707287,77.179863,Interchange,B6
+40,Adarsh Nagar,Yellow Line,"[2, 20]",28.696377,77.208809,Normal,B5
+39,Jahangirpuri,Yellow Line,"[2, 20]",28.72818,77.16124,Normal,B4
+38,Haiderpur Badli Mor,Yellow Line,"[2, 20]",28.718657,77.149956,Normal,B3
+37,Rohini Sector 18-19,Yellow Line,"[2, 20]",28.740192,77.135574,Normal,B2
+36,Samaypur Badli,Yellow Line,"[2, 20]",28.742872,77.146545,Terminal,B1
+121,Dwarka Sector - 21,Blue Line,"[32, 5, 6, 14, 23, 24]",28.552322,77.056198,Terminal/Interchange,C1
+120,Dwarka Sector - 8,Blue Line,"[24, 5, 6, 23]",28.565706,77.064896,Normal,C2
+119,Dwarka Sector - 9,Blue Line,"[24, 5, 6, 23]",28.574284,77.065086,Normal,C3
+118,Dwarka Sector - 10,Blue Line,"[24, 5, 6, 23]",28.581108,77.05719,Normal,C4
+117,Dwarka Sector - 11,Blue Line,"[24, 5, 6, 23]",28.58642,77.049255,Normal,C5
+116,Dwarka Sector - 12,Blue Line,"[24, 5, 6, 23]",28.592234,77.040558,Normal,C6
+115,Dwarka Sector - 13,Blue Line,"[24, 5, 6, 23]",28.59705,77.033043,Normal,C7
+114,Dwarka Sector - 14,Blue Line,"[24, 5, 6, 23]",28.602232,77.02594,Normal,C8
+113,Dwarka,Blue Line,"[5, 6, 13, 23, 24, 31]",28.614899,77.022629,Terminal/Interchange,C9
+112,Dwarka Mor,Blue Line,"[24, 5, 6, 23]",28.619366,77.033188,Normal,C10
+111,Nawada,Blue Line,"[24, 5, 6, 23]",28.620222,77.044991,Normal,C11
+110,Uttam Nagar West,Blue Line,"[24, 5, 6, 23]",28.621672,77.055664,Normal,C12
+109,Uttam Nagar East,Blue Line,"[24, 5, 6, 23]",28.624643,77.063126,Normal,C13
+108,Janak Puri West,Blue Line,"[5, 6, 12, 23, 24, 30]",28.629637,77.077866,Terminal/Interchange,C14
+107,Janak Puri East,Blue Line,"[24, 5, 6, 23]",28.633121,77.086578,Normal,C15
+106,Tilak Nagar,Blue Line,"[24, 5, 6, 23]",28.636568,77.096336,Normal,C16
+105,Subash Nagar,Blue Line,"[24, 5, 6, 23]",28.640381,77.10273,Normal,C17
+104,Tagore Garden,Blue Line,"[24, 5, 6, 23]",28.643795,77.112747,Normal,C18
+103,Rajouri Garden,Blue Line,"[5, 6, 11, 23, 24, 29]",28.649157,77.122749,Interchange,C19
+102,Ramesh Nagar,Blue Line,"[24, 5, 6, 23]",28.652809,77.131462,Normal,C20
+101,Moti Nagar,Blue Line,"[24, 5, 6, 23]",28.657803,77.140488,Normal,C21
+100,Kirti Nagar,Blue Line,"[5, 6, 7, 23, 24, 25]",28.655773,77.148499,Terminal/Interchange,C22
+99,Shadipur,Blue Line,"[24, 5, 6, 23]",28.65143,77.156021,Normal,C23
+98,Patel Nagar,Blue Line,"[24, 5, 6, 23]",28.645037,77.167046,Normal,C24
+97,Rajendra Place,Blue Line,"[24, 5, 6, 23]",28.64241,77.191833,Normal,C25
+96,Karol Bagh,Blue Line,"[24, 5, 6, 23]",28.643925,77.188416,Normal,C26
+95,Jhandewalan,Blue Line,"[24, 5, 6, 23]",28.644312,77.199791,Normal,C27
+94,RK Ashram Marg,Blue Line,"[24, 5, 6, 23]",28.639217,77.206291,Normal,C28
+50,Rajiv Chowk,Blue Line,"[2, 3, 5, 6, 20, 21, 23, 24]",28.632896,77.219574,Interchange,C29
+93,Barakhamba,Blue Line,"[24, 5, 6, 23]",28.629662,77.224876,Normal,C30
+92,Mandi House,Blue Line,"[5, 6, 9, 10, 23, 24, 27, 28]",28.625816,77.234726,Interchange,C31
+91,Supreme Court,Blue Line,"[24, 5, 6, 23]",28.623438,77.2425,Normal,C32
+90,Indraprastha,Blue Line,"[24, 5, 6, 23]",28.620272,77.250076,Normal,C33
+89,Yamuna Bank,Blue Line,"[24, 5, 6, 23]",28.623178,77.267937,Normal,C34
+88,Akshardham,Blue Line,"[5, 23]",28.618364,77.279816,Normal,C35
+87,Mayur Vihar-I,Blue Line,"[29, 11, 5, 23]",28.604425,77.289421,Interchange,C36
+86,Mayur Vihar Ext,Blue Line,"[5, 23]",28.594124,77.294495,Normal,C37
+85,New Ashok Nagar,Blue Line,"[5, 23]",28.58847,77.30146,Normal,C38
+84,Noida Sec -15,Blue Line,"[5, 23]",28.585018,77.311584,Normal,C39
+83,Noida Sec -16,Blue Line,"[5, 23]",28.577921,77.318115,Normal,C40
+82,Noida Sec -18,Blue Line,"[5, 23]",28.570843,77.326088,Normal,C41
+81,Botanical Garden,Blue Line,"[12, 5, 30, 23]",28.564198,77.334656,Terminal/Interchange,C42
+80,Golf Course,Blue Line,"[5, 23]",28.566917,77.345726,Normal,C43
+79,Noida City Centre,Blue Line,"[5, 23]",28.574593,77.356117,Normal,C44
+233,Noida Sec-34,Blue Line,"[5, 23]",28.580229,77.363518,Normal,C45
+234,Noida Sec-52,Blue Line,"[5, 23]",28.586849,77.372749,Normal,C46
+235,Noida Sec-61,Blue Line,"[5, 23]",28.597677,77.372368,Normal,C47
+236,Noida Sec-59,Blue Line,"[5, 23]",28.609089,77.372955,Normal,C48
+237,Noida Sec-62,Blue Line,"[5, 23]",28.616991,77.373611,Normal,C49
+238,Noida Electronic City,Blue Line,"[5, 23]",28.628685,77.375229,Terminal,C50
+89,Yamuna Bank,Blue Line,"[24, 5, 6, 23]",28.623178,77.267937,Normal,D1
+78,Laxmi Nagar,Blue Line,"[24, 6]",28.629843,77.276428,Normal,D2
+77,Nirman Vihar,Blue Line,"[24, 6]",28.637049,77.287872,Normal,D3
+76,Preet Vihar,Blue Line,"[24, 6]",28.641352,77.295158,Normal,D4
+75,Karkarduma,Blue Line,"[24, 11, 29, 6]",28.648653,77.304581,Interchange,D5
+74,Anand Vihar,Blue Line,"[24, 11, 29, 6]",28.647005,77.316185,Interchange,D6
+73,Kaushambi,Blue Line,"[24, 6]",28.645428,77.322273,Normal,D7
+72,Vaishali,Blue Line,"[24, 6]",28.650059,77.337608,Terminal,D8
+100,Kirti Nagar,Green Line,"[5, 6, 7, 23, 24, 25]",28.655773,77.148499,Terminal/Interchange,E1
+35,Satguru Ram Singh Marg,Green Line,"[25, 7]",28.662188,77.157829,Normal,E2
+13,Inderlok,Green Line,"[0, 1, 8, 18, 19, 26]",28.673452,77.170235,Terminal/Interchange,E3
+34,Ashok Park Main,Green Line,"[8, 25, 26, 7]",28.671572,77.155159,Normal,E4
+33,Punjabi Bagh,Green Line,"[8, 25, 26, 7]",28.672943,77.146011,Normal,E5
+176,Punjabi Bagh West,Green Line,"[11, 29]",28.672747,77.139183,Interchange,E6
+32,Shivaji Park,Green Line,"[8, 25, 26, 7]",28.674965,77.128258,Normal,E7
+31,Madipur,Green Line,"[8, 25, 26, 7]",28.676418,77.117294,Normal,E8
+30,Paschim Vihar (East),Green Line,"[8, 25, 26, 7]",28.677305,77.112251,Normal,E9
+29,Paschim Vihar (West),Green Line,"[8, 25, 26, 7]",28.678539,77.102119,Normal,E10
+28,Peera Garhi,Green Line,"[8, 25, 26, 7]",28.67972,77.092491,Normal,E11
+27,Udyog Nagar,Green Line,"[8, 25, 26, 7]",28.681047,77.078674,Normal,E12
+26,Maharaja Surajmal Stadium,Green Line,"[8, 25, 26, 7]",28.681833,77.073891,Normal,E13
+25,Nangloi,Green Line,"[8, 25, 26, 7]",28.682356,77.064728,Normal,E14
+24,Nangloi Railway Station,Green Line,"[8, 25, 26, 7]",28.682091,77.05619,Normal,E15
+23,Rajdhani Park,Green Line,"[8, 25, 26, 7]",28.682217,77.043869,Normal,E16
+22,Mundka,Green Line,"[8, 25, 26, 7]",28.682411,77.028282,Normal,E17
+196,Mundka Industrial Area (M.I.A),Green Line,"[8, 25, 26, 7]",28.68396,76.989822,Normal,E18
+197,Ghevra Metro station,Green Line,"[8, 25, 26, 7]",28.685289,76.993584,Normal,E19
+198,Tikri Kalan,Green Line,"[8, 25, 26, 7]",28.686899,76.977249,Normal,E20
+199,Tikri Border,Green Line,"[8, 25, 26, 7]",28.687876,76.963783,Normal,E21
+200,Pandit Shree Ram Sharma,Green Line,"[8, 25, 26, 7]",28.689213,76.951088,Normal,E22
+201,Bahadurgarh City,Green Line,"[8, 25, 26, 7]",28.690784,76.935265,Normal,E23
+202,Brigadier Hoshiyar Singh,Green Line,"[8, 25, 26, 7]",28.697428,76.919128,Terminal,E24
+8,Kashmere Gate,Violet Line,"[0, 1, 2, 3, 9, 10, 18, 19, 20, 21, 27, 28]",28.667879,77.228012,Terminal/Interchange,F1
+160,Lal Quila,Violet Line,"[9, 10, 27, 28]",28.657576,77.236595,Normal,F2
+159,Jama Masjid,Violet Line,"[9, 10, 27, 28]",28.650393,77.237556,Normal,F3
+158,Delhi Gate,Violet Line,"[9, 10, 27, 28]",28.640488,77.240303,Normal,F4
+122,ITO,Violet Line,"[9, 10, 27, 28]",28.627205,77.240952,Normal,F5
+92,Mandi House,Violet Line,"[5, 6, 9, 10, 23, 24, 27, 28]",28.625816,77.234726,Interchange,F6
+123,Janpath,Violet Line,"[9, 10, 27, 28]",28.627817,77.218956,Normal,F7
+52,Central Secretariat,Violet Line,"[2, 3, 9, 10, 20, 21, 27, 28]",28.614973,77.212029,Interchange,F8
+124,Khan Market,Violet Line,"[9, 10, 27, 28]",28.602682,77.228096,Normal,F9
+125,Jawahar Lal Nehru Stadium,Violet Line,"[9, 10, 27, 28]",28.590475,77.23307,Normal,F10
+126,Jangpura,Violet Line,"[9, 10, 27, 28]",28.583231,77.239662,Normal,F11
+127,Lajpat Nagar,Violet Line,"[9, 10, 11, 27, 28, 29]",28.570705,77.233124,Interchange,F12
+128,Moolchand,Violet Line,"[9, 10, 27, 28]",28.564629,77.234222,Normal,F13
+129,Kailash Colony,Violet Line,"[9, 10, 27, 28]",28.554617,77.239738,Normal,F14
+130,Nehru Place,Violet Line,"[9, 10, 27, 28]",28.551134,77.251511,Normal,F15
+131,Kalkaji Mandir,Violet Line,"[9, 10, 12, 27, 28, 30]",28.549532,77.258789,Interchange,F16
+132,Govind Puri,Violet Line,"[9, 10, 27, 28]",28.544413,77.264259,Normal,F17
+133,Harkesh Nagar Okhla,Violet Line,"[9, 10, 27, 28]",28.543194,77.275955,Normal,F18
+134,Jasola-Apollo,Violet Line,"[9, 10, 27, 28]",28.538084,77.285538,Normal,F19
+135,Sarita Vihar,Violet Line,"[9, 10, 27, 28]",28.528622,77.288345,Normal,F20
+136,Mohan Estate,Violet Line,"[9, 10, 27, 28]",28.51959,77.294518,Normal,F21
+137,Tughlakabad Station,Violet Line,"[9, 10, 27, 28]",28.502232,77.29866,Normal,F22
+138,Badarpur Border,Violet Line,"[9, 10, 27, 28]",28.4932,77.30085,Terminal,F23
+139,Sarai,Violet Line,"[10, 28]",28.47794,77.304932,Normal,F24
+140,NHPC Chowk,Violet Line,"[10, 28]",28.462435,77.305252,Normal,F25
+141,Mewala Maharajpur,Violet Line,"[10, 28]",28.4485,77.308098,Normal,F26
+142,Sector-28,Violet Line,"[10, 28]",28.440586,77.305992,Normal,F27
+143,Badkal Mor,Violet Line,"[10, 28]",28.422707,77.310234,Normal,F28
+144,Old Faridabad,Violet Line,"[10, 28]",28.412172,77.311272,Normal,F29
+145,Neelam Chowk Ajronda,Violet Line,"[10, 28]",28.400707,77.309105,Normal,F30
+146,Bata Chowk,Violet Line,"[10, 28]",28.386362,77.298782,Normal,F31
+147,Escorts Mujesar,Violet Line,"[10, 28]",28.370199,77.315002,Normal,F32
+219,Sant Surdas (Sihi),Violet Line,"[10, 28]",28.354666,77.316261,Normal,F33
+220,Raja Nahar Singh,Violet Line,"[10, 28]",28.339899,77.331657,Terminal,F34
+173,Majlis Park,Pink Line,"[11, 29]",28.724157,77.182068,Terminal,G1
+41,Azadpur,Pink Line,"[2, 11, 20, 29]",28.707287,77.179863,Interchange,G2
+174,Shalimar Bagh,Pink Line,"[11, 29]",28.70182,77.165184,Normal,G3
+16,Netaji Subash Place,Pink Line,"[0, 1, 11, 18, 19, 29]",28.695637,77.152428,Interchange,G4
+175,Shakurpur,Pink Line,"[11, 29]",28.685781,77.149651,Normal,G5
+176,Punjabi Bagh West,Pink Line,"[11, 29]",28.672747,77.139183,Interchange,G6
+177,ESI Basai Darapur,Pink Line,"[11, 29]",28.658159,77.127319,Normal,G7
+103,Rajouri Garden,Pink Line,"[5, 6, 11, 23, 24, 29]",28.649157,77.122749,Interchange,G8
+178,Mayapuri,Pink Line,"[11, 29]",28.637098,77.129738,Normal,G9
+179,Naraina Vihar,Pink Line,"[11, 29]",28.624121,77.136482,Normal,G10
+180,Delhi Cantt.,Pink Line,"[11, 29]",28.608641,77.140373,Normal,G11
+181,Durgabai Deshmukh South Campus,Pink Line,"[11, 29]",28.589376,77.169518,Normal,G12
+203,Sir Vishweshwaraiah Moti Bagh,Pink Line,"[11, 29]",28.578529,77.175713,Normal,G13
+204,Bhikaji Cama Place,Pink Line,"[11, 29]",28.570208,77.187866,Normal,G14
+205,Sarojini Nagar,Pink Line,"[11, 29]",28.570208,77.187866,Normal,G15
+56,Dilli Haat - INA,Pink Line,"[2, 3, 11, 20, 21, 29]",28.575195,77.209473,Interchange,G16
+206,South Extension,Pink Line,"[11, 29]",28.5686,77.219818,Normal,G17
+127,Lajpat Nagar,Pink Line,"[9, 10, 11, 27, 28, 29]",28.570705,77.233124,Interchange,G18
+221,Vinobapuri,Pink Line,"[11, 29]",28.566179,77.249367,Normal,G19
+222,Ashram,Pink Line,"[11, 29]",28.576065,77.25753,Normal,G20
+223,Sarai Kale Khan - Nizamuddin,Pink Line,"[11, 29]",28.5889,77.253189,Normal,G21
+87,Mayur Vihar-I,Pink Line,"[29, 11, 5, 23]",28.604425,77.289421,Interchange,G22
+224,Mayur Vihar Pocket 1,Pink Line,"[11, 29]",28.606598,77.296326,Normal,G23
+207,Trilokpuri Sanjay Lake,Pink Line,"[11, 29]",28.613506,77.308678,Normal,G24
+208,East Vinod Nagar - Mayur Vihar-II,Pink Line,"[11, 29]",28.620052,77.305588,Normal,G25
+209,Mandawali - West Vinod Nagar,Pink Line,"[11, 29]",28.624861,77.304146,Normal,G26
+210,IP Extension,Pink Line,"[11, 29]",28.631599,77.310898,Normal,G27
+74,Anand Vihar,Pink Line,"[24, 11, 29, 6]",28.647005,77.316185,Interchange,G28
+75,Karkarduma,Pink Line,"[24, 11, 29, 6]",28.648653,77.304581,Interchange,G29
+211,Karkarduma Court,Pink Line,"[11, 29]",28.649473,77.295341,Normal,G30
+212,Krishna Nagar,Pink Line,"[11, 29]",28.65782,77.290306,Normal,G31
+213,East Azad Nagar,Pink Line,"[11, 29]",28.665043,77.284599,Normal,G32
+5,Welcome,Pink Line,"[0, 1, 11, 18, 19, 29]",28.671986,77.277931,Interchange,G33
+214,Jafrabad,Pink Line,"[11, 29]",28.682943,77.27507,Normal,G34
+215,Maujpur - Babarpur,Pink Line,"[11, 29]",28.692057,77.280922,Normal,G35
+216,Gokulpuri,Pink Line,"[11, 29]",28.703009,77.286301,Normal,G36
+217,Johri Enclave,Pink Line,"[11, 29]",28.713297,77.290154,Normal,G37
+218,Shiv Vihar,Pink Line,"[11, 29]",28.721863,77.289635,Terminal,G38
+108,Janak Puri West,Magenta Line,"[5, 6, 12, 23, 24, 30]",28.629637,77.077866,Terminal/Interchange,H1
+195,Dabri Mor - Janakpuri South,Magenta Line,"[12, 30]",28.615904,77.085258,Normal,H2
+194,Dashrath Puri,Magenta Line,"[12, 30]",28.602333,77.08255,Normal,H3
+193,Palam,Magenta Line,"[12, 30]",28.589067,77.082954,Normal,H4
+192,Sadar Bazar Contonment,Magenta Line,"[12, 30]",28.577108,77.111305,Normal,H5
+191,Terminal 1- IGI Airport,Magenta Line,"[12, 30]",28.565275,77.122391,Normal,H6
+190,Shankar Vihar,Magenta Line,"[12, 30]",28.560787,77.140442,Normal,H7
+189,Vasant Vihar,Magenta Line,"[12, 30]",28.558378,77.160774,Normal,H8
+188,Munirka,Magenta Line,"[12, 30]",28.557821,77.174026,Normal,H9
+187,RK Puram,Magenta Line,"[12, 30]",28.550486,77.184952,Normal,H10
+186,IIT,Magenta Line,"[12, 30]",28.547194,77.193832,Normal,H11
+59,Hauz Khas,Magenta Line,"[2, 3, 12, 20, 21, 30]",28.543346,77.206673,Interchange,H12
+185,Panchsheel Park,Magenta Line,"[12, 30]",28.542339,77.220512,Normal,H13
+184,Chirag Delhi,Magenta Line,"[12, 30]",28.541229,77.229385,Normal,H14
+183,Greater Kailash,Magenta Line,"[12, 30]",28.541836,77.238243,Normal,H15
+182,Nehru Enclave,Magenta Line,"[12, 30]",28.545856,77.25116,Normal,H16
+131,Kalkaji Mandir,Magenta Line,"[9, 10, 12, 27, 28, 30]",28.549532,77.258789,Interchange,H17
+167,Okhla NSIC,Magenta Line,"[12, 30]",28.554575,77.26487,Normal,H18
+166,Sukhdev Vihar,Magenta Line,"[12, 30]",28.559887,77.275116,Normal,H19
+165,Jamia Millia Islamia,Magenta Line,"[12, 30]",28.562944,77.286209,Normal,H20
+164,Okhla Vihar,Magenta Line,"[12, 30]",28.561255,77.291916,Normal,H21
+163,Jasola Vihar Shaheen Bagh,Magenta Line,"[12, 30]",28.546005,77.296715,Normal,H22
+162,Kalindi Kunj,Magenta Line,"[12, 30]",28.542835,77.310173,Normal,H23
+161,Okhla Bird Sanctuary,Magenta Line,"[12, 30]",28.552816,77.321564,Normal,H24
+81,Botanical Garden,Magenta Line,"[12, 5, 30, 23]",28.564198,77.334656,Terminal/Interchange,H25
+113,Dwarka,Gray Line,"[5, 6, 13, 23, 24, 31]",28.614899,77.022629,Terminal/Interchange,I1
+239,Nangli,Gray Line,"[13, 31]",28.61722,77.010345,Normal,I2
+240,Najafgarh,Gray Line,"[13, 31]",28.613316,76.986259,Normal,I3
+241,Dhansa Bus Stand,Gray Line,"[13, 31]",28.611858,76.975426,Terminal,I4
+121,Dwarka Sector - 21,Orange/airport Line,"[32, 5, 6, 14, 23, 24]",28.552322,77.056198,Terminal/Interchange,J6
+154,IGI Airport,Orange/airport Line,"[32, 14]",28.554869,77.087921,Normal,J5
+155,Delhi Aerocity,Orange/airport Line,"[32, 14]",28.548792,77.120743,Normal,J4
+156,Dhaula Kuan,Orange/airport Line,"[32, 14]",28.591776,77.161545,Normal,J3
+157,Shivaji Stadium,Orange/airport Line,"[32, 14]",28.629007,77.209213,Normal,J2
+49,New Delhi,Orange/airport Line,"[32, 2, 3, 14, 20, 21]",28.642944,77.222351,Terminal/Interchange,J1
+172,Sector 55-56 ,Rapid Line,"[33, 15]",28.424587,77.105042,Terminal,K1
+171,Sector 54 Chowk ,Rapid Line,"[33, 15]",28.434212,77.104782,Normal,K2
+170,Sector 53-54 ,Rapid Line,"[33, 15]",28.447533,77.100487,Normal,K3
+169,Sector 42-43 ,Rapid Line,"[33, 15]",28.458475,77.09684,Normal,K4
+168,Phase-I ,Rapid Line,"[33, 15]",28.471981,77.094009,Normal,K5
+68,Sikanderpur,Rapid Line,"[33, 2, 4, 15, 20, 22]",28.481352,77.092995,Interchange,K6
+149,Phase 2 ,Rapid Line,"[33, 15]",28.488371,77.092865,Normal,K7
+150,Belvedere Towers ,Rapid Line,"[33, 15]",28.492065,77.088142,Normal,K8
+151,Cyber City ,Rapid Line,"[33, 15]",28.498478,77.089088,Normal,K9
+152,Moulsari Avenue ,Rapid Line,"[33, 15]",28.501572,77.094536,Normal,K10
+153,Phase 3 ,Rapid Line,"[33, 15]",28.494329,77.093552,Terminal,K11

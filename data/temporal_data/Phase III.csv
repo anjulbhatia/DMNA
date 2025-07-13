@@ -1,0 +1,21 @@
+Line,Stations,Length (km),Terminal A,Terminal B,Opening Date,Phase
+Red Line,8,9.64,Dilshad Garden,Shaheed Sthal (New Bus Adda),9 March 2019,Phase III
+Yellow Line,3,4.37,Jahangirpuri,Samaypur Badli,10 November 2015,Phase III
+Blue Line,6,6.8,Noida City Centre,Noida Electronic City,9 March 2019,Phase III
+Green Line,7,11.19,Mundka,Brigadier Hoshiyar Singh,24 June 2018,Phase III
+Violet Line|,2,3.23,Mandi House,Central Secretariat,26 June 2014,Phase III
+Violet Line|,1,0.97,Mandi House,ITO,8 June 2015,Phase III
+Violet Line|,9,13.56,Badarpur Border,Escorts Mujesar,6 September 2015,Phase III
+Violet Line|,4,5.07,Kashmere Gate,ITO,28 May 2017,Phase III
+Violet Line|,2,3.35,Escorts Mujesar,Raja Nahar Singh,19 November 2018,Phase III
+Airport Express,1,2.01,Dwarka Sector 21,Yashobhoomi - Dwarka Sector 25,17 September 2023,Phase III
+Pink Line,12,21.57,Majlis Park,Durgabai Deshmukh  South Campus,14 March 2018,Phase III
+Pink Line,6,8.53,Durgabai Deshmukh  South Campus,Lajpat Nagar,6 August 2018,Phase III
+Pink Line,15,17.86,Trilokpuri Sanjay Lake,Shiv Vihar,31 October 2018,Phase III
+Pink Line,5,9.63,Lajpat Nagar,Mayur Vihar Pocket I,31 December 2018,Phase III
+Pink Line,0,1.65,Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,6 August 2021,Phase III
+Magenta Line,9,12.64,Kalkaji Mandir,Botanical Garden,25 December 2017,Phase III
+Magenta Line,16,24.82,Janakpuri West,Kalkaji Mandir,29 May 2018,Phase III
+Grey Line,3,4.3,Dwarka,Najafgarh,4 October 2019,Phase III
+Grey Line,1,0.89,Najafgarh,Dhansa Bus Stand,18 September 2021,Phase III
+Total,109,162.08,,,,Phase III
